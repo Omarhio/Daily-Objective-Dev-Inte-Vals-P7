@@ -23,17 +23,17 @@ Benjamin
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
   - [x] Renommer son dernier commit en respectant cette convention
 - [x] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
+  - [x] Lister, changer, créer, supprimer des branches
 - [x] Comprendre le merge dans Git
   - [x] Comprendre le "fast forward"
   - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
-- [ ] Pimper son profile Github
+- [x] Pimper son profile Github
 - [x] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
-  - [ ] Issues
+  - [x] Pull Requests
+  - [x] Branches
+  - [x] Issues
   - [x] Settings projet
   - [x] Settings profile
