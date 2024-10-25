@@ -9,13 +9,13 @@ Benjamin
 - [x] Comprendre la différence entre `git reset` et `git revert`
 - [x] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
 - [x] Comprendre et utiliser le `git diff` (quelle utilité)
-- [ ] Comprendre la différence entre `git log` et `git show`.
+- [] Comprendre la différence entre `git log` et `git show`.
 
 ### Setup Workflow Git
 
 - [x] Configurer son git :
   - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [x] Différenciateur (par ex : Delta)
-  - [x] Comprendre les Alias
+  - [x] Comprendre les Aliasx
   - [x] Comprendre la différence entre config locale, globale et système
 - [x] Choix workflow : Faites vos alias
